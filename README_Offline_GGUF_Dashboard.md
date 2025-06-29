@@ -28,7 +28,7 @@ offline-ai-dashboard/
 ├── setup.sh                          # Unix setup script
 ├── setup.bat                         # Windows setup script
 └── models/
-    └── mistral-7b-openorca.Q4_0.gguf # Local GGUF model (not committed to GitHub)
+    └── mistral-7b-openorca.Q4_K_M.gguf # Local GGUF model (not committed to GitHub)
 ```
 
 ---
