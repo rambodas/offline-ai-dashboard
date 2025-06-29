@@ -35,7 +35,7 @@ offline-ai-dashboard/
 
 ## 🛠️ Prerequisites
 
-### 1. ✅ Install Python (version 3.10 or 3.11 recommended)
+### 1. ✅ Install Python (version 3.12 recommended)
 
 - Download from [python.org](https://www.python.org/downloads/)
 - During installation, check **"Add Python to PATH"**
